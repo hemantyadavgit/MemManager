@@ -1,0 +1,22 @@
+/***********************
+Author: Hemant Yadav
+***********************/
+
+File List:
+
+main_malloc.c
+main_mm.c
+mm_public.c
+packet_public.c
+mm_public.h
+packet_public.h
+Makefile
+README
+
+Useage: 
+Use the included makefile. Type "make" at shell.
+
+Program Description:
+This program is a pseudo-dynamic memory manager. It implements a linked list to manage chunks of data. Detailed functionality is explained in comments alongwith source code. 
+
+
